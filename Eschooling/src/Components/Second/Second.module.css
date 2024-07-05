@@ -1,0 +1,18 @@
+.SecondMain{
+    width: 200px;
+    height: 100px;
+    margin: 0 auto; 
+    margin-bottom: 40px;
+
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    margin-top: 100px;
+    color: rgb(10, 10, 69);
+    
+}
+.curve{
+width: 120%;
+margin-left: 20px ;
+}

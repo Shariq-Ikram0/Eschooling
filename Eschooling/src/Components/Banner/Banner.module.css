@@ -1,0 +1,40 @@
+.banner{
+    margin: 60px;
+    background-color:rgb(191, 6, 6);
+    color: white;
+    padding: 80px;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+}
+.tab{
+width: 100%;
+
+
+}
+.succ{
+    border: 1 solid snow;
+    text-align: center;
+    
+}
+.tab .enrol{
+    font-size: large;
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    letter-spacing: 3px;
+}
+.tab .numb{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 120px;
+    height: 90px;
+}
+td{
+    border-left: 1px solid rgb(222, 52, 52);
+   border-collapse: collapse;
+   
+}

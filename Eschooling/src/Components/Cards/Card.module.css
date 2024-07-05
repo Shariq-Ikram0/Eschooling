@@ -1,0 +1,22 @@
+.card{
+    /* border: 1px solid grey;
+    box-shadow: 0px 0px 10px black; */
+    margin: 50px 25px;
+    padding: 5px;
+    max-width: 250px;
+    text-align: center;
+    display: inline-block;
+   background-color: white;
+cursor: pointer;
+position: relative;
+}
+
+   .cardImg{
+    max-width: 150%;
+}
+.card_text{
+    position: absolute;
+    top: 75%;
+    color: rgb(255, 255, 255);
+    padding:10px;
+}
